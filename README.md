@@ -37,6 +37,7 @@ Cellular automata can evolve by systematically applying different rule-sets to e
 These rules allow for patterns to emerge and create copies of themselves on the grid - similar to biological production and evolution. The Game of Life, developed by John Conway in 1970, is the most famous example of what we call cellular automata.
 
 
+
 ##### *HOW CELLULAR AUTOMATA EVOLVE*
 
 In each generation, we evaluate every individual cell and apply our rules to it to determine whether it's alive (1) or dead (0). Once we're done, we then get a new state based on the previous state, and its neighbors.
@@ -55,7 +56,7 @@ Here are some images of the different generations of our simulation. We aren’t
 ###### In figure 7.14 you can see this concept translated into an array (series of numbers).
 ![](https://i.imgur.com/Bg1JN6f.png)
 
-**RULES TO THE GAME OF LIFE**
+##### **RULES TO THE GAME OF LIFE**
 
 Here are the 3 basic rules for the Game of Life. As you learn about these - think about new states of the cell. What does it mean to expand your definition of "neighboring cells"?
 
