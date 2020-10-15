@@ -119,7 +119,7 @@ Spaceships:
 
 Depending on the states of the starting grid, the Game of Life can create beautiful patterns that range from simple and random, to complex and geometric!
 
-### GOL / p5.js Technical exercise:
+### III.GOL / p5.js Technical exercise with Nicci and Hailey
 Now, we'll be looking at an implementation of Conway's Game of Life in a p5.js sketch. p5.js is a free, open-source JavaScript library for creative coding. Sketches can be run and edited right in your web browser - no software downloads needed.
 
 Play around with the code **[in this p5.js sketch](https://p5js.org/examples/simulate-game-of-life.html)**! Together, we'll try changing the canvas size, background color, and activation rules for the neighboring cells. 
@@ -153,7 +153,6 @@ function draw() {
 ```
 
 
-
 **3. Try different neighbors**
 Try changing the rules for how the number of neighbors impacts whether a cell is alive or dead. What impact does it have on the behavior of the cells?
 
@@ -163,11 +162,12 @@ else if ((board[x][y] == 1) && (neighbors >  3)) next[x][y] = 0; //overproductio
 else if ((board[x][y] == 0) && (neighbors == 3)) next[x][y] = 1;  //reproduction               
 else     next[x][y] = board[x][y];
 ```
-SARAH AND STEPHANIE
-**Now Poieto Exercise:**
+
+### III.GOL / p5.js / poieto exercise with Stephanie and Sarah
 Create your own Game of Life metaphor with processing and poieto
 
 **Think about: **
+
 * The states of your cell, your neighbors - what is your metaphor?
 
 * How are our own real-life social conditions informed by those of our neighbours?
