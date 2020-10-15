@@ -1,6 +1,7 @@
 # processing-gol
 In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
 
+
 ## *Processing the Game of Life* - with p5.js and poieto
 
 ### I. ABOUT
@@ -18,7 +19,7 @@ Today, we'll be using Conway's Game of Life to consider these ideas. Although th
 
 ### II. GOL Technical Approach with Processing / P5.JS *(from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1aw/)/[Nature of Code](https://natureofcode.com/))*
 
-**WHAT ARE CELLULAR AUTOMATA?**
+#####WHAT ARE CELLULAR AUTOMATA?
 
 Conway's Game of Life is just one example of a **cellular automata** - aka a simulation of a system of individual "cells". A cellular automata can be represented by "cell" objects, or squares, with [a few key characteristics](https://natureofcode.com/book/chapter-7-cellular-automata/): 
 - The cells live on a grid.
