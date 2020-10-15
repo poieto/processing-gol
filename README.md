@@ -2,12 +2,10 @@
 In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
 <br></br>
 
-
 ## *Processing the Game of Life* - with p5.js and poieto
 <br></br>
 
 ### I. ABOUT
-
 
 One of the key areas we are doing our research on today is this book called [*Algorithms of Oppression*](https://nyupress.org/9781479837243/algorithms-of-oppression/) by [Professor Safiya U. Noble](https://safiyaunoble.com/). Dr. Noble provides multiple examples of bias - like how in Google search, some of the information in the results we get back has a bias. This bias can happen in the way people design something (e.g. the decisions that are made by coders that design the algorithm), the information that is put into that design (e.g. the data that is fed into the search engine algorithm - who’s left out?), and how people with different life experiences can’t always relate to the information that comes out of search results. Although Dr. Noble’s book heavily focuses on Google search, this idea of algorithmic bias can happen on other platforms that we can all use/see - e.g. Instagram, TikTok - but also other ones that we can’t - e.g. systems that decide who gets access to loans, job search engines, etc.
 
@@ -124,6 +122,7 @@ Spaceships:
 
 Depending on the states of the starting grid, the Game of Life can create beautiful patterns that range from simple and random, to complex and geometric!
 
+<br></br>
 ### III.GOL / p5.js Technical exercise with Nicci and Hailey
 Now, we'll be looking at an implementation of Conway's Game of Life in a p5.js sketch. p5.js is a free, open-source JavaScript library for creative coding. Sketches can be run and edited right in your web browser - no software downloads needed.
 
@@ -167,10 +166,8 @@ else if ((board[x][y] == 1) && (neighbors >  3)) next[x][y] = 0; //overproductio
 else if ((board[x][y] == 0) && (neighbors == 3)) next[x][y] = 1;  //reproduction               
 else     next[x][y] = board[x][y];
 ```
-
-
-
-### III.GOL / p5.js / poieto exercise with Stephanie and Sarah
+<br></br>
+### IV.GOL / p5.js / poieto exercise with Stephanie and Sarah
 Create your own Game of Life metaphor with processing and poieto
 
 **Think about: **
@@ -182,8 +179,8 @@ Create your own Game of Life metaphor with processing and poieto
 * How can differences in our data change our understanding of an experience?
 
 
-
-### IV. Technical / Learning Info
+<br></br>
+### V. Technical / Learning Info
 
 **Prerequisite materials:** 
 * Download Processing (free)
@@ -207,10 +204,8 @@ https://p5js.org/examples/simulate-game-of-life.html
 * Encourage participants to gain critically engage with ideas of access and inequality
 * Encourage participants to explore the relationship between form, culture and code
 
-
-
-
-### V. Share your work ! 
+<br></br>
+### VI. Share your work ! 
 We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to data@poieto.com
 
 Additionally you can share the work on social:
