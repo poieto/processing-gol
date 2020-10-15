@@ -19,6 +19,7 @@ Today, we'll be using Conway's Game of Life to consider these ideas. Although th
 
 ### II. GOL Technical Approach with Processing / P5.JS *(from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1aw/)/[Nature of Code](https://natureofcode.com/))*
 
+
 ##### *WHAT ARE CELLULAR AUTOMATA?*
 
 Conway's Game of Life is just one example of a **cellular automata** - aka a simulation of a system of individual "cells". A cellular automata can be represented by "cell" objects, or squares, with [a few key characteristics](https://natureofcode.com/book/chapter-7-cellular-automata/): 
@@ -36,7 +37,7 @@ Cellular automata can evolve by systematically applying different rule-sets to e
 
 These rules allow for patterns to emerge and create copies of themselves on the grid - similar to biological production and evolution. The Game of Life, developed by John Conway in 1970, is the most famous example of what we call cellular automata.
 
-**HOW CELLULAR AUTOMATA EVOLVE**
+##### *HOW CELLULAR AUTOMATA EVOLVE*
 
 In each generation, we evaluate every individual cell and apply our rules to it to determine whether it's alive (1) or dead (0). Once we're done, we then get a new state based on the previous state, and its neighbors.
 
