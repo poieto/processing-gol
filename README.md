@@ -4,7 +4,6 @@ In this project we explore the social rules for John Conway's Game of Life - usi
 
 ## *Processing the Game of Life* - with p5.js and poieto
 <br></br>
-
 ### I. ABOUT
 
 One of the key areas we are doing our research on today is this book called [*Algorithms of Oppression*](https://nyupress.org/9781479837243/algorithms-of-oppression/) by [Professor Safiya U. Noble](https://safiyaunoble.com/). Dr. Noble provides multiple examples of bias - like how in Google search, some of the information in the results we get back has a bias. This bias can happen in the way people design something (e.g. the decisions that are made by coders that design the algorithm), the information that is put into that design (e.g. the data that is fed into the search engine algorithm - who’s left out?), and how people with different life experiences can’t always relate to the information that comes out of search results. Although Dr. Noble’s book heavily focuses on Google search, this idea of algorithmic bias can happen on other platforms that we can all use/see - e.g. Instagram, TikTok - but also other ones that we can’t - e.g. systems that decide who gets access to loans, job search engines, etc.
@@ -16,7 +15,7 @@ Today, we'll be using Conway's Game of Life to consider these ideas. Although th
 [John Conway](https://www.nytimes.com/2020/04/15/technology/john-horton-conway-dead-coronavirus.html)’s Game of Life is a logic game represented through an animation of moving “cells” on a grid. In today's beginner-friendly workshop, we will introduce to the Game of Life as an entry point for discussing how inequality can affect social outcomes. We’ll provide an animation of the Game of Life implemented as a [Processing sketch], and we will all create new social and cultural rules for the game that result in new animated patterns, framing this research with the social design tool poieto. Through these exercises, you’ll gain a critical understanding of the Game of Life and learn how to manipulate video animations with community software [Processing](http://processing.org/).
 
 
-
+<br></br>
 ### II. GOL Technical Approach with Processing / P5.JS *(from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1aw/)/[Nature of Code](https://natureofcode.com/))*
 
 
