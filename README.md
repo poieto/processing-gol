@@ -177,3 +177,34 @@ Create your own Game of Life metaphor with processing and poieto
 * How are our own real-life social conditions informed by those of our neighbours?
 
 * How can differences in our data change our understanding of an experience?
+
+### IV. Technical / Learning Info
+
+**Prerequisite materials:** 
+* Download Processing (free)
+* Explore the Game of Life under the Cellular Automata Examples
+* Watch an intro video to Conway’s Game of Life by Dan Shiffman
+https://p5js.org/examples/simulate-game-of-life.html
+* We will add poieto when link becomes available
+
+**Learning outcomes:**
+* Gain an understanding of the rules that constitute Conway’s Game of Life
+* Connect the Game of Life to wider conversations around the presence or absence of resources and social conditions
+* Learn how different rules for the Game of Life lead to different outcomes, and be empowered to create their own rules
+* Learn how to modify an existing Processing sketch and play with code
+* Learn how patterns in code can emerge and change based on simple rules
+
+**Goals:** 
+* Introduce beginner audiences to the open-source platform Processing
+* Help participants visualize social rules and what happens when they are altered
+* Make participants comfortable with manipulating video animations in Processing
+* Establish a space for safe, open dialogue between participants
+* Encourage participants to gain critically engage with ideas of access and inequality
+* Encourage participants to explore the relationship between form, culture and code
+
+### V. Share your work ! 
+We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to data@poieto.com
+
+Additionally you can share the work on social:
+
+Add social info here @sarah?
