@@ -166,6 +166,7 @@ else if ((board[x][y] == 0) && (neighbors == 3)) next[x][y] = 1;  //reproduction
 else     next[x][y] = board[x][y];
 ```
 
+
 ### III.GOL / p5.js / poieto exercise with Stephanie and Sarah
 Create your own Game of Life metaphor with processing and poieto
 
