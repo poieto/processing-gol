@@ -56,7 +56,7 @@ Here are some images of the different generations of our simulation. We aren’t
 ###### In figure 7.14 you can see this concept translated into an array (series of numbers).
 ![](https://i.imgur.com/Bg1JN6f.png)
 
-##### **RULES TO THE GAME OF LIFE**
+##### *RULES TO THE GAME OF LIFE*
 
 Here are the 3 basic rules for the Game of Life. As you learn about these - think about new states of the cell. What does it mean to expand your definition of "neighboring cells"?
 
