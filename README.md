@@ -28,7 +28,6 @@ Conway's Game of Life is just one example of a **cellular automata** - aka a sim
 - Each cell has a "neighborhood" of adjacent cells - aka the surrounding cells on the grid.
 
 ![](https://i.imgur.com/vh3M6AY.png)
-
 ###### A cell neighborhood, taken from *[The Nature of Code](https://natureofcode.com/book/chapter-7-cellular-automata/)* by Daniel Shiffman
 
 The figure above shows a neighborhood of cells. In this example, the surrounding neighbors are the 8 cells surrounding the circled particular cell. 
@@ -36,6 +35,7 @@ The figure above shows a neighborhood of cells. In this example, the surrounding
 Cellular automata can evolve by systematically applying different rule-sets to every cell on the grid. Applied to the whole grid over and over, this can create different patterns of behaviour that we can analyze and manipulate.
 
 These rules allow for patterns to emerge and create copies of themselves on the grid - similar to biological production and evolution. The Game of Life, developed by John Conway in 1970, is the most famous example of what we call cellular automata.
+
 
 ##### *HOW CELLULAR AUTOMATA EVOLVE*
 
