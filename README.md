@@ -51,19 +51,7 @@ Applying these rules to a grid, we can see [a few types of behavior patterns](ht
 
 ![](https://i.imgur.com/wJlUHrK.jpg)
 
-### **Oscillators**: These forms switch back and forth between two states, as the cells switch from being alive to dead.
-
-Blinker:
-![](https://i.imgur.com/ENMivVP.gif)
-
-Toad:
-![](https://i.imgur.com/M2izEs4.gif)
-
-Beacon:
-![](https://i.imgur.com/dCsgm4o.gif)
-
-Pulsar:
-![](https://i.imgur.com/r53Q1gF.gif)
+![](https://i.imgur.com/kI2jxtd.jpg)
 
 ### **Spaceships**: Over multiple generations, the patterns of cell forms appear to "move" around the grid in predictable ways.
 
