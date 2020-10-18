@@ -214,16 +214,16 @@ Feminist.AI will be hosting critical programs and education modules this winter 
 We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to christine@poieto.com
 
 **Social for Feminist.AI:**
-website: [feminist.ai](https:/feminist.ai/)
-IG:https://www.instagram.com/feministai/
-Twitter: https://twitter.com/feminist_ai
-FB: https://www.facebook.com/FeministAIProjectsBitsBytes/
-If you'd like to volunteer, email social@mutable.studio
+* website: [feminist.ai](https:/feminist.ai/)
+* IG:https://www.instagram.com/feministai/
+* Twitter: https://twitter.com/feminist_ai
+* FB: https://www.facebook.com/FeministAIProjectsBitsBytes/
+* If you'd like to volunteer, email social@mutable.studio
 
 **Social for Socio-tech design tool poieto:**
-IG: https://www.instagram.com/poi.eto/ <br></br>
-Twitter: https://twitter.com/poieto_craft <br></br>
-If you'd like to volunteer, email christine@poieto.com<br></br>
+* IG: https://www.instagram.com/poi.eto/ 
+* Twitter: https://twitter.com/poieto_craft 
+* If you'd like to volunteer, email christine@poieto.com
 
 
 
