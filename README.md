@@ -221,9 +221,9 @@ FB: https://www.facebook.com/FeministAIProjectsBitsBytes/
 If you'd like to volunteer, email social@mutable.studio
 
 **Social for Socio-tech design tool poieto:**
-IG: https://www.instagram.com/poi.eto/
-Twitter: https://twitter.com/poieto_craft
-If you'd like to volunteer, email christine@poieto.com
+IG: https://www.instagram.com/poi.eto/ <br></br>
+Twitter: https://twitter.com/poieto_craft <br></br>
+If you'd like to volunteer, email christine@poieto.com<br></br>
 
 
 
