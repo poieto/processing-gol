@@ -170,7 +170,7 @@ else     next[x][y] = board[x][y];
 ### IV. GOL / p5.js / poieto exercise with Stephanie Marie Cedeño and Sarah Cheung
 Create your own Game of Life metaphor with processing and poieto
 
-**Think about: **
+**Think about:**
 
 * The states of your cell, your neighbors - what is your metaphor?
 
@@ -184,7 +184,7 @@ Create your own Game of Life metaphor with processing and poieto
 
 **Materials Needed**
 * Computer with internet access and your web browser of choice
-* Note: We will be using the p5.js web editor, and will be viewing documents on Google Slides and Github.
+* Note: We will be using the [pj.js web editor](https://editor.p5js.org/), and will be viewing documents on Google Slides and Github.
 
 **Prerequisite Materials**
 * Optional: Watch an intro video to [Conway’s Game of Life by The Coding Train (Dan Shiffman)](https://www.youtube.com/watch?v=tENSCEO-LEc/)
