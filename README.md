@@ -183,12 +183,15 @@ Create your own Game of Life metaphor with processing and poieto
 <br></br>
 ### V. Technical / Learning Info
 
-**Prerequisite materials:** 
-* Download Processing (free)
-* Explore the Game of Life under the Cellular Automata Examples
-* Watch an intro video to Conway’s Game of Life by Dan Shiffman
-https://p5js.org/examples/simulate-game-of-life.html
-* We will add poieto when link becomes available
+**Materials Needed**
+Computer with internet access and your web browser of choice
+Note: We will be using the p5.js web editor, and will be viewing documents on Google Slides and Github.
+
+**Prerequisite Materials**
+Optional: Watch an intro video to [Conway’s Game of Life by The Coding Train (Dan Shiffman)] (https://www.youtube.com/watch?v=tENSCEO-LEc)
+Optional: Explore the Game of Life section under the Cellular Automata Examples in [The Nature of Code] (https://natureofcode.com/book/chapter-7-cellular-automata/)
+Bonus: Watch The Coding Train’s [Coding Challenge for the Game of Life using p5.js!] (https://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html)
+
 
 **Learning outcomes:**
 * Gain an understanding of the rules that constitute Conway’s Game of Life
@@ -209,7 +212,7 @@ https://p5js.org/examples/simulate-game-of-life.html
 ### VI. Share your work ! 
 Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Dr. Safiya Umoja Noble’s book Algorithms of Oppression using the tool to create a Feminist Search Engine, along wiht other Algorithms of Oppression inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
 
-We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to data@poieto.com
+We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to christine@poieto.com
 
 **Social for Feminist.AI:**
 website: [feminist.ai](https:/feminist.ai/)
@@ -221,7 +224,7 @@ If you'd like to volunteer, email social@mutable.studio
 **Social for Socio-tech design tool poieto:**
 IG: https://www.instagram.com/poi.eto/
 Twitter: https://twitter.com/poieto_craft
-If you'd like to volunteer, email data@poieto.com
+If you'd like to volunteer, email christine@poieto.com
 
 
 
