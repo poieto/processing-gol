@@ -189,7 +189,7 @@ Create your own Game of Life metaphor with processing and poieto
 **Prerequisite Materials**
 * Optional: Watch an intro video to [Conway’s Game of Life by The Coding Train (Dan Shiffman)](https://www.youtube.com/watch?v=tENSCEO-LEc/)
 * Optional: Explore the Game of Life section under the Cellular Automata Examples in [The Nature of Code](https://natureofcode.com/book/chapter-7-cellular-automata/)
-* Bonus: Watch The Coding Train’s [Coding Challenge for the Game of Life using p5.js!](https:/thecodingtrain.com/CodingChallenges/085-the-game-of-life.html/)
+* Bonus: Watch The Coding Train’s [Coding Challenge for the Game of Life using p5.js! ](https://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html)
 
 
 **Learning outcomes:**
