@@ -49,22 +49,7 @@ Applying these rules to a grid, we can see [a few types of behavior patterns](ht
 ![](https://i.imgur.com/g3YVlmw.jpg)
 
 
-### **Still lifes**: These are groups of cells that do not change from one generation to the next. Remember the rules - why do these groups not appear to change? 
-
-Block:
-![](https://i.imgur.com/U2YCH7h.png)
-
-Beehive: 
-![](https://i.imgur.com/1YcviHv.png)
-
-Loaf:
-![](https://i.imgur.com/T5BYtCw.png)
-
-Boat:
-![](https://i.imgur.com/FtcnPdf.png)
-
-Tub:
-![](https://i.imgur.com/5xX4Mbc.png)
+![](https://i.imgur.com/wJlUHrK.jpg)
 
 ### **Oscillators**: These forms switch back and forth between two states, as the cells switch from being alive to dead.
 
