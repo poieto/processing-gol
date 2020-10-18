@@ -154,7 +154,7 @@ A glimpse of poieto is presented in this workshop. A modified blueprint section 
 
 <br></br>
 ### VI. Share your work! 
-Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Professor Safiya U. Noble’s book *Algorithms of Oppression* using the tool to create a Feminist Search Engine, along with other *Algorithms of Oppression* inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
+Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Professor Safiya U. Noble’s book *Algorithms of Oppression*. We welcome you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
 
 We would love to share your projects! Please give us permission to share your work, email a screenshot of your project and/or work to social@mutable.studio
 **If you'd like to learn about part II and part III of our Game of Life Workshop series- email us at social@mutable.studio**
@@ -171,6 +171,7 @@ We would love to share your projects! Please give us permission to share your wo
 * Twitter: https://twitter.com/poieto_craft 
 * If you'd like to volunteer, email christine@poieto.com
 
+<br></br>
+*Original Slide Design by Michelle Gong and Matt Asato-Adams. 
+Slides for the Game of Life Workshop were designed by Stephanie Marie Cedeño.* 
 
-* Original Slide Design by Michelle Gong and Matt Asato-Adams. 
-Slides for the Game of Life Workshop were designed by Stephanie Marie Cedeño. 
