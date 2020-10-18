@@ -1,3 +1,6 @@
+# Workshop Timeline
+(https://i.imgur.com/YWA9oxT.jpg)
+
 # processing-gol
 In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
 <br></br>
@@ -123,7 +126,7 @@ Spaceships:
 Depending on the states of the starting grid, the Game of Life can create beautiful patterns that range from simple and random, to complex and geometric!
 
 <br></br>
-### III.GOL / p5.js Technical exercise with Nicci Yin and Hailey Mah.
+### III.GOL / p5.js Technical exercise with Nicci Yin and Hailey Mah
 Now, we'll be looking at an implementation of Conway's Game of Life in a p5.js sketch. p5.js is a free, open-source JavaScript library for creative coding. Sketches can be run and edited right in your web browser - no software downloads needed.
 
 Play around with the code **[in this p5.js sketch](https://p5js.org/examples/simulate-game-of-life.html)**! Together, we'll try changing the canvas size, background color, and activation rules for the neighboring cells. 
@@ -208,7 +211,7 @@ Create your own Game of Life metaphor with processing and poieto
 * Encourage participants to explore the relationship between form, culture and code
 
 <br></br>
-### VI. Share your work ! 
+### VI. Share your work! 
 Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Dr. Safiya Umoja Noble’s book Algorithms of Oppression using the tool to create a Feminist Search Engine, along wiht other Algorithms of Oppression inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
 
 We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to social@mutable.studio
