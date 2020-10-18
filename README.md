@@ -1,4 +1,9 @@
-##### Workshop Timeline
+# processing-gol
+In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
+<br></br>
+
+## *Processing the Game of Life* - with p5.js and poieto
+### Workshop Timeline
 **pt 1**
 * Game of Life Technical Approach with p5.js
 * Play Around+ Share Out
@@ -8,13 +13,6 @@
 * Explore elements of poieto + Share Out
 
 **conclusion**
-
-
-# processing-gol
-In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
-<br></br>
-
-## *Processing the Game of Life* - with p5.js and poieto
 <br></br>
 ### I. ABOUT
 
