@@ -1,4 +1,4 @@
-# Workshop Timeline
+##### Workshop Timeline
 **pt 1**
 * Game of Life Technical Approach with p5.js
 * Play Around+ Share Out
@@ -9,7 +9,6 @@
 
 **conclusion**
 
-![](https://i.imgur.com/YWA9oxT.jpg)
 
 # processing-gol
 In this project we explore the social rules for John Conway's Game of Life - using p5.js and poieto led by Feminist.AI members
