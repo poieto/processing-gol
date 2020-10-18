@@ -38,7 +38,6 @@ Cellular automata can evolve by systematically applying different rule-sets to e
 These rules allow for patterns to emerge and create copies of themselves on the grid - similar to biological production and evolution. The Game of Life, developed by John Conway in 1970, is the most famous example of what we call cellular automata.
 
 
-
 ##### *HOW CELLULAR AUTOMATA EVOLVE*
 
 In each generation, we evaluate every individual cell and apply our rules to it to determine whether it's alive (1) or dead (0). Once we're done, we then get a new state based on the previous state, and its neighbors.
@@ -124,7 +123,7 @@ Spaceships:
 Depending on the states of the starting grid, the Game of Life can create beautiful patterns that range from simple and random, to complex and geometric!
 
 <br></br>
-### III.GOL / p5.js Technical exercise with Nicci and Hailey
+### III.GOL / p5.js Technical exercise with Nicci Yin and Hailey Mah.
 Now, we'll be looking at an implementation of Conway's Game of Life in a p5.js sketch. p5.js is a free, open-source JavaScript library for creative coding. Sketches can be run and edited right in your web browser - no software downloads needed.
 
 Play around with the code **[in this p5.js sketch](https://p5js.org/examples/simulate-game-of-life.html)**! Together, we'll try changing the canvas size, background color, and activation rules for the neighboring cells. 
@@ -168,7 +167,7 @@ else if ((board[x][y] == 0) && (neighbors == 3)) next[x][y] = 1;  //reproduction
 else     next[x][y] = board[x][y];
 ```
 <br></br>
-### IV.GOL / p5.js / poieto exercise with Stephanie and Sarah
+### IV. GOL / p5.js / poieto exercise with Stephanie Marie Cedeño and Sarah Cheung
 Create your own Game of Life metaphor with processing and poieto
 
 **Think about: **
