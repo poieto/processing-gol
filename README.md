@@ -1,4 +1,14 @@
 # Workshop Timeline
+**pt 1**
+* Game of Life Technical Approach with p5.js
+* Play Around+ Share Out
+
+**pt 2**
+* Game of Life Social and Cultural Approach wit poieto
+* Explore elements of poieto + Share Out
+
+**conclusion**
+
 ![](https://i.imgur.com/YWA9oxT.jpg)
 
 # processing-gol
