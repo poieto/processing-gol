@@ -139,7 +139,8 @@ else     next[x][y] = board[x][y];
 ```
 <br></br>
 ### IV. GOL / p5.js / poieto exercise with Stephanie Marie Cedeño and Sarah Cheung
-Create your own Game of Life metaphor with processing and poieto
+Create your own Game of Life metaphor with processing and poieto. 
+Aglimpse of poieto is presented in this workshop. A modified blueprint section of the tool is applied to the rules of the Game of Life.  
 
 **Think about:**
 
