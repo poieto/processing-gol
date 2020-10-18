@@ -211,7 +211,7 @@ Create your own Game of Life metaphor with processing and poieto
 ### VI. Share your work ! 
 Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Dr. Safiya Umoja Noble’s book Algorithms of Oppression using the tool to create a Feminist Search Engine, along wiht other Algorithms of Oppression inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
 
-We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to christine@poieto.com
+We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to social@mutable.studio
 
 **Social for Feminist.AI:**
 * website: [feminist.ai](https:/feminist.ai/)
