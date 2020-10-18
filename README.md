@@ -3,7 +3,7 @@ In this project we explore the social rules for John Conway's Game of Life - usi
 <br></br>
 
 ## *Processing the Game of Life* - with p5.js and poieto
-### Workshop Timeline
+#### Workshop Timeline
 **pt 1**
 * Game of Life Technical Approach with p5.js
 * Play Around+ Share Out
@@ -12,7 +12,7 @@ In this project we explore the social rules for John Conway's Game of Life - usi
 * Game of Life Social and Cultural Approach wit poieto
 * Explore elements of poieto + Share Out
 
-**conclusion**
+
 <br></br>
 ### I. ABOUT
 
@@ -30,63 +30,24 @@ Today, we'll be using Conway's Game of Life to consider these ideas. Although th
 <br></br>
 ### II. GOL Technical Approach with Processing / P5.JS *(from [The Coding Train](https://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html)/[Nature of Code](https://natureofcode.com/))*
 
+Conway's Game of Life is just one example of a **cellular automata** - aka a simulation of a system of individual "cells". A cellular automata can be represented by "cell" objects, or squares.
 
-##### *WHAT ARE CELLULAR AUTOMATA?*
+![](https://i.imgur.com/ev5DPxO.jpg)
+<br></br>
+##### RULES TO THE GAME OF LIFE
 
-Conway's Game of Life is just one example of a **cellular automata** - aka a simulation of a system of individual "cells". A cellular automata can be represented by "cell" objects, or squares, with [a few key characteristics](https://natureofcode.com/book/chapter-7-cellular-automata/): 
-- The cells live on a grid.
-- Each cell has a state. Cells can be dead (represented by 0 in the code) or alive (represented by 1).
-- Each cell has a "neighborhood" of adjacent cells - aka the surrounding cells on the grid.
+Here are the basic rules for the Game of Life. As you learn about these - think about new states of the cell. What does it mean to expand your definition of "neighboring cells"?
 
-![](https://i.imgur.com/vh3M6AY.png)
-###### A cell neighborhood, taken from *[The Nature of Code](https://natureofcode.com/book/chapter-7-cellular-automata/)* by Daniel Shiffman
+![](https://i.imgur.com/94lScVt.jpg)
 
-The figure above shows a neighborhood of cells. In this example, the surrounding neighbors are the 8 cells surrounding the circled particular cell. 
+![](https://i.imgur.com/TXvjymE.jpg)
 
-Cellular automata can evolve by systematically applying different rule-sets to every cell on the grid. Applied to the whole grid over and over, this can create different patterns of behaviour that we can analyze and manipulate.
-
-These rules allow for patterns to emerge and create copies of themselves on the grid - similar to biological production and evolution. The Game of Life, developed by John Conway in 1970, is the most famous example of what we call cellular automata.
-
-
-##### *HOW CELLULAR AUTOMATA EVOLVE*
-
-In each generation, we evaluate every individual cell and apply our rules to it to determine whether it's alive (1) or dead (0). Once we're done, we then get a new state based on the previous state, and its neighbors.
-
-In the below examples, alive cells are shown in **black** and dead cells are shown in **white**.
-
-Here are some images of the different generations of our simulation. We aren’t going to get too deep into the code - this is just a high level understanding of what’s happening. 
-
-*The images below are pulled from [The Nature of Code](https://natureofcode.com/book/chapter-7-cellular-automata/) by Daniel Shiffman:*
-
-###### Imagine the neighborhood (image above)laid out on a horizontal line. You can see in figures 7.11 and 7.12  you can see how the neighboring cells produce the 0 and 1 states. 
-![](https://i.imgur.com/DUmpy0m.png)
-
-![](https://i.imgur.com/wJXN1tB.png)
-
-###### In figure 7.14 you can see this concept translated into an array (series of numbers).
-![](https://i.imgur.com/Bg1JN6f.png)
-
-##### *RULES TO THE GAME OF LIFE*
-
-Here are the 3 basic rules for the Game of Life. As you learn about these - think about new states of the cell. What does it mean to expand your definition of "neighboring cells"?
-
-**Simplified Rules:**
-Alive cell = 0; dead = 1.
-
-**How you can die:**
-- **Loneliness**: Alive cells less than 2 live neighbors = dies
-- **Overpopulation**: Alive cells with more than 3 live neighbors = dies
-![](https://i.imgur.com/V7kJOaM.png)
-
-**Come back to life:**
-- **Birth**: Dead cells with have 3 live neighbors =  come back to life
-![](https://i.imgur.com/pnjAVUU.png)
-
-**Stay the same:**
-- **Staying alive**: Live cells with 2 or 3 neighbors =  live
-- **Staying dead**: Dead cells with anything other than three live neighbours = stay dead
+![](https://i.imgur.com/HIy8ZT4.jpg)
 
 Applying these rules to a grid, we can see [a few types of behavior patterns](https://camo.githubusercontent.com/a710386de69bcb8577875246196c7fb07144ff0c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3456565a547654717a5252304255774e49482f67697068792e676966) emerge among groups of cells. All of them have fun names!
+
+![](https://i.imgur.com/g3YVlmw.jpg)
+
 
 **Still lifes**: These are groups of cells that do not change from one generation to the next. Remember the rules - why do these groups not appear to change? 
 
@@ -219,7 +180,7 @@ Create your own Game of Life metaphor with processing and poieto
 
 <br></br>
 ### VI. Share your work! 
-Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Dr. Safiya Umoja Noble’s book Algorithms of Oppression using the tool to create a Feminist Search Engine, along wiht other Algorithms of Oppression inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
+Feminist.AI will be hosting critical programs and education modules this winter that stem from the ideas in Professor Safiya U. Noble’s book *Algorithms of Oppression* using the tool to create a Feminist Search Engine, along with other *Algorithms of Oppression* inspired programming. We highly encourage you to join in our future programs, submit their own ideas for programs, or get involved with the Feminist.AI team.
 
 We would love to share your projects! Please give us permission to share your work, e mail a screenshot of your project and/or work to social@mutable.studio
 
