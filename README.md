@@ -84,7 +84,7 @@ Now, we'll be looking at an implementation of Conway's Game of Life in a p5.js s
 
 Play around with the code **[in this p5.js sketch](https://p5js.org/examples/simulate-game-of-life.html)**! Together, we'll try changing the canvas size, background color, and activation rules for the neighboring cells. 
 
-**Before we begin:** The default speed of the animation is set to 60 frames per second, which is quite fast! If you want to change the speed of the animation to see what's going on, specify the frame rate by adding`frameRate();` within the `setup()` function.
+**Before we begin:** The default speed of the animation is set to 60 frames per second, which is quite fast! If you want to change the speed of the animation to see what's going on, specify the frame rate by adding `frameRate();` within the `setup()` function.
 
 **1. a) Edit the canvas size**
 Think about access to space and how the canvas may affect the duration or spread of active cells or “lives”. Try changing 400 to 800 - or make a tiny 200 x 200 canvas size.
@@ -125,13 +125,13 @@ else     next[x][y] = board[x][y];
 <br></br>
 ### IV. GOL / p5.js / poieto exercise with Stephanie Marie Cedeño and Sarah Cheung
 Create your own Game of Life metaphor with processing and poieto. 
-Aglimpse of poieto is presented in this workshop. A modified blueprint section of the tool is applied to the rules of the Game of Life.  
+A glimpse of poieto is presented in this workshop. A modified blueprint section of the tool is applied to the rules of the Game of Life.  
 
 **Think about:**
 
 * The states of your cell, your neighbors - what is your metaphor?
 
-* How are our own real-life social conditions informed by those of our neighbours?
+* How are our own real-life social conditions informed by those of our neighbors?
 
 * How can differences in our data change our understanding of an experience?
 
